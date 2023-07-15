@@ -1,3 +1,4 @@
 print("Hola mundo")
 data_1 = input("Introduce un saludo: ")
 data_2 = int(input("Introduce un número: "))
+data_3 = f("Tus respuestas fueron: {data_1} + {data_2})"
