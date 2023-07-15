@@ -1,0 +1,3 @@
+print("Hola mundo")
+data_1 = input("Introduce un saludo: ")
+data_2 = int(input("Introduce un número: "))
